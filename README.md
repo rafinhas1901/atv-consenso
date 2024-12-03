@@ -51,6 +51,3 @@ Se a maioria dos nós aceitar a proposta, o valor é considerado aceito pela red
 - Implementação de lógica para recuperação de nós após falhas.
 - Suporte para múltiplos rounds de propostas.
 - Expansão para tolerância a falhas bizantinas.
-
-## Exemplos de Uso
-Esta simulação é útil para estudantes e desenvolvedores que desejam entender os princípios básicos do consenso distribuído e como o Paxos pode ser aplicado em sistemas reais.
